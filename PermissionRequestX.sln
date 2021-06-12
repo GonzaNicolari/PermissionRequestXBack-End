@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermissionRequestX.Api", "PermissionRequestX\PermissionRequestX.Api.csproj", "{688676DE-4818-49EE-B431-876205F09DBE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestPermission.Core", "..\PermissionRequestX.Core\RequestPermission.Core\RequestPermission.Core.csproj", "{3D7BE220-8A33-4EC4-A5C0-C3B9E28EC194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RequestPermission.Core", "PermissionRequestX.Core\RequestPermission.Core\RequestPermission.Core.csproj", "{0DD31100-504E-4EC1-876D-D6D28BF05869}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{688676DE-4818-49EE-B431-876205F09DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{688676DE-4818-49EE-B431-876205F09DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{688676DE-4818-49EE-B431-876205F09DBE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D7BE220-8A33-4EC4-A5C0-C3B9E28EC194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D7BE220-8A33-4EC4-A5C0-C3B9E28EC194}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D7BE220-8A33-4EC4-A5C0-C3B9E28EC194}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D7BE220-8A33-4EC4-A5C0-C3B9E28EC194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD31100-504E-4EC1-876D-D6D28BF05869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD31100-504E-4EC1-876D-D6D28BF05869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD31100-504E-4EC1-876D-D6D28BF05869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD31100-504E-4EC1-876D-D6D28BF05869}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
