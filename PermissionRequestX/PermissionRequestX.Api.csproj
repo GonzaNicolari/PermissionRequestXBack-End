@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\PermissionRequestX.Core\RequestPermission.Core\RequestPermission.Core.csproj" />
-    <ProjectReference Include="..\PermissionRequestX.Core\RequestPermission.Core\RequestPermission.Core.csproj" />
   </ItemGroup>
 
 
